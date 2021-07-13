@@ -1,18 +1,5 @@
-target
-vendor
-.dirnev
-flake.lock
-Cargo.lock
-
-
-# Added by cargo
-
 /target
 /.direnv
-
-
-# Added by cargo
-#
-# already existing elements were commented out
-
-#/target
+/vendor
+flake.lock
+Cargo.lock
